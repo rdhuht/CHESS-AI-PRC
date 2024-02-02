@@ -1,0 +1,6 @@
+WIDTH = 700
+HEIGH = 900
+
+ROWS = 9
+COLS = 7
+SQSIZE = WIDTH // COLS  # 地图方块的尺寸
